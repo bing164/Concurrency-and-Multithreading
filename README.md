@@ -8,3 +8,5 @@ https://www.bilibili.com/video/BV1Yb411L7ak/?p=7&spm_id_from=pageDriver&vd_sourc
 ch1, ch2: 多线程基础。
 
 ch3: 互斥量和死锁。
+
+ch4: 单例设计模式和多线程.
